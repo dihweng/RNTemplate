@@ -1,4 +1,4 @@
-# BPP
+# Template
 This project was bootstrapped with [EXPO CLI]
 
 It's a boilerplate for bootstrapping CRNA or EXPO Apps.
@@ -13,7 +13,7 @@ You'll find the Expo guide & docs here.
 Setup
 Navigate to your terminal
 
-Clone the repository using git clone https://github.com/dihweng/BPP.git in your terminal
+Clone the repository using git clone https://github.com/dihweng/RNTemplate.git in your terminal
 
 Navigate into the directory where the cloned project is located in your terminal
 
